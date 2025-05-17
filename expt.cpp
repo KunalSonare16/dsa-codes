@@ -4,13 +4,21 @@
 using namespace std;
 
 int main(){
-list<int> l;
-l.push_back(1);
-l.push_front(5);
-l.push_back(6);
-cout<<l.empty();
-cout<<l.size();
-l.erase(l.begin(),l.end());
-cout<<l.size();
+  int n,m;
+  cin>>n>>m;
+  int **arr = new int*[n];
+  for(int i = 0 ; i<m ;i++){
+     arr[i] = new int[m];
+  }
+  for(int i = 0 ; i < n ; i ++){
+    for(int j = 0 ; j < m ; j++){
+      cin>>arr[i][j];
+    }
+  }
+for(int i = 0 ; i < n ; i ++){
+    for(int j = 0 ; j < m ; j++){
+      cout<<arr[i][j];
+    }
+  }
   return 0 ;
 }
