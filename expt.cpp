@@ -20,5 +20,10 @@ for(int i = 0 ; i < n ; i ++){
       cout<<arr[i][j];
     }
   }
+  for( int i = 0 ; i < m ; i++){
+    delete [] arr[i];
+
+  }
+  delete []  arr;
   return 0 ;
 }
