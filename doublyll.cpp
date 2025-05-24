@@ -114,23 +114,34 @@ void deletenode(int position , node*&head,node*&tale){
        delete current;
     }
 }
+void reverse(node* &head,node*&tale){
+     if (head == nullptr || head->next == nullptr) return;
+    node * curr = head;
+    node * prev = NULL;
+    
+   while(curr!=NULL){
+    prev = curr->prev;
+    curr->prev = curr->next;
+    curr->next = prev;
+    curr = curr->prev;
+ 
+   }
+   prev = head;
+   head = tale;
+   tale = prev;
+
+}
 int main(){
   
     node * head = NULL;
     node *tale = NULL;
     
     insertathead(head,tale,60);
-
     insertattale(tale,head,20);
-  
     insertatanyposition(head,tale,2,30);
     insertatanyposition(head,tale,1,31);
     insertatanyposition(head,tale,5,31);
-       print(head);
- deletenode(5,head,tale);
  print(head);
-deletenode(1,head,tale);
+ reverse(head,tale);
  print(head);
- cout<<"head"<<head->data<<endl;
- cout<<"tale"<<tale->data<<endl;
 }
