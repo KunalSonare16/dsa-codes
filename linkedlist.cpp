@@ -107,6 +107,23 @@ delete temp;
 
     delete current;
 }
+node* flyodalgo(node* head){
+    if(head == NULL) return NULL;
+    node* slow = head;
+    node * fast = head;
+    while(fast != NULL && fast->next != NULL){
+        fast = fast->next->next;
+        if(fast!=NULL){
+            fast = fast->next;
+        }
+        slow= slow->next;
+        if(slow==fast){
+            cout<<"loop is present at "<<slow->data<<endl;
+            return slow;
+        }
+    }
+    return NULL;
+}
 int main(){
     node * n1 = new node(30);
    node * head = n1;
@@ -116,11 +133,17 @@ int main(){
  
  insertatmiddle(tale,head,4,40);
 
-  cout<<head->data<<endl;
-  cout<<tale->data<<endl;
-  printll(head);
-  deltetvalue(40,head,tale);
-  printll(head);
-  cout<<head->data<<endl;
-  cout<<tale->data<<endl;
+
+insertatmiddle(tale,head,3,25);
+tale->next = head->next;
+  
+
+  if(flyodalgo(head)!=NULL){
+    cout<<"loop is present "<<endl;
+
+  }
+  else{
+    cout<<" loop is not present";
+  }
+ 
 }
