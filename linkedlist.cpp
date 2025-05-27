@@ -113,9 +113,7 @@ node* flyodalgo(node* head){
     node * fast = head;
     while(fast != NULL && fast->next != NULL){
         fast = fast->next->next;
-        if(fast!=NULL){
-            fast = fast->next;
-        }
+       
         slow= slow->next;
         if(slow==fast){
             cout<<"loop is present at "<<slow->data<<endl;
@@ -123,6 +121,16 @@ node* flyodalgo(node* head){
         }
     }
     return NULL;
+}
+node* getstartingofloop(node * head){
+    if(head == NULL) return NULL;
+    node * intersaction = flyodalgo(head);
+    node * slow = head;
+    while(slow!=intersaction){
+        slow = slow->next;
+        intersaction = intersaction->next;
+    }
+    return slow;
 }
 int main(){
     node * n1 = new node(30);
@@ -137,7 +145,7 @@ int main(){
 insertatmiddle(tale,head,3,25);
 tale->next = head->next;
   
-
+printll(head);
   if(flyodalgo(head)!=NULL){
     cout<<"loop is present "<<endl;
 
@@ -145,5 +153,6 @@ tale->next = head->next;
   else{
     cout<<" loop is not present";
   }
- 
+  node * ans = getstartingofloop(head);
+ cout<<" starting of loop is "<<ans->data;
 }
