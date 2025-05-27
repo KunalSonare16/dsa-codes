@@ -132,6 +132,15 @@ node* getstartingofloop(node * head){
     }
     return slow;
 }
+void deleteloop( node * head){
+    if(head==NULL)  return;
+    node * starting = getstartingofloop(head);
+    node * temp = head;
+    while(temp->next!=starting){
+        temp = temp->next;
+    }
+    temp->next = NULL;
+}
 int main(){
     node * n1 = new node(30);
    node * head = n1;
@@ -144,8 +153,8 @@ int main(){
 
 insertatmiddle(tale,head,3,25);
 tale->next = head->next;
-  
-printll(head);
+
+
   if(flyodalgo(head)!=NULL){
     cout<<"loop is present "<<endl;
 
@@ -155,4 +164,7 @@ printll(head);
   }
   node * ans = getstartingofloop(head);
  cout<<" starting of loop is "<<ans->data;
+ deleteloop(head);
+ printll(head);
+
 }
