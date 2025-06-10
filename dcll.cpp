@@ -73,7 +73,7 @@ void deletek(node * & tale , int value){
    do {
         if (curr->data == value) {
             curr->prev->next = curr->next;
-            curr->next->prev = curr->prev;stack.cpp
+            curr->next->prev = curr->prev;
 
             // If node to delete is tail, move tail back
             if (curr == tale) {
