@@ -20,7 +20,7 @@ node* buildtree(node * root){
     root = new node(data);
     if(data==-1){
         return NULL;
-    }
+    } 
      cout<<"enter the data for left child for "<<data<<" : "<<endl;
     root->left = buildtree(root->left);
     cout<<"enter the data for right child for "<<data<<" : "<<endl;
