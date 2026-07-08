@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
