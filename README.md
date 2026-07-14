@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/KunalSonare16/dsa-codes/tree/master/1402-reducing-dishes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KunalSonare16/dsa-codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/KunalSonare16/dsa-codes/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KunalSonare16/dsa-codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/KunalSonare16/dsa-codes/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/KunalSonare16/dsa-codes/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
