@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KunalSonare16/dsa-codes/tree/master/0009-palindrome-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KunalSonare16/dsa-codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-reducing-dishes](https://github.com/KunalSonare16/dsa-codes/tree/master/1402-reducing-dishes) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KunalSonare16/dsa-codes/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
