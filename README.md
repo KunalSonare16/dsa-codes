@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSonare16/dsa-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/KunalSonare16/dsa-codes/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
