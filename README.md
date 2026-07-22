@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/KunalSonare16/dsa-codes/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0039-combination-sum) |
+| [1200-minimum-absolute-difference](https://github.com/KunalSonare16/dsa-codes/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/KunalSonare16/dsa-codes/tree/master/1402-reducing-dishes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0015-3sum) |
+| [1200-minimum-absolute-difference](https://github.com/KunalSonare16/dsa-codes/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/KunalSonare16/dsa-codes/tree/master/1402-reducing-dishes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSonare16/dsa-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
