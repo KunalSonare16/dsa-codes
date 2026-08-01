@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KunalSonare16/dsa-codes/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0039-combination-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSonare16/dsa-codes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/KunalSonare16/dsa-codes/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1200-minimum-absolute-difference](https://github.com/KunalSonare16/dsa-codes/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/KunalSonare16/dsa-codes/tree/master/1402-reducing-dishes) |
