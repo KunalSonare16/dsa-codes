@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KunalSonare16/dsa-codes/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0039-combination-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSonare16/dsa-codes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/KunalSonare16/dsa-codes/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KunalSonare16/dsa-codes/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1200-minimum-absolute-difference](https://github.com/KunalSonare16/dsa-codes/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/KunalSonare16/dsa-codes/tree/master/0682-baseball-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSonare16/dsa-codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalSonare16/dsa-codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/KunalSonare16/dsa-codes/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
