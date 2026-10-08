@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/KunalSonare16/dsa-codes/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0039-combination-sum) |
+| [0063-unique-paths-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0063-unique-paths-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSonare16/dsa-codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/KunalSonare16/dsa-codes/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KunalSonare16/dsa-codes/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0063-unique-paths-ii) |
 | [1402-reducing-dishes](https://github.com/KunalSonare16/dsa-codes/tree/master/1402-reducing-dishes) |
 ## Number Theory
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KunalSonare16/dsa-codes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
