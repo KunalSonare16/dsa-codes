@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/KunalSonare16/dsa-codes/tree/master/0011-container-with-most-water) |
 | [1402-reducing-dishes](https://github.com/KunalSonare16/dsa-codes/tree/master/1402-reducing-dishes) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSonare16/dsa-codes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSonare16/dsa-codes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalSonare16/dsa-codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/KunalSonare16/dsa-codes/tree/master/0682-baseball-game) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSonare16/dsa-codes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0063-unique-paths-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSonare16/dsa-codes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
