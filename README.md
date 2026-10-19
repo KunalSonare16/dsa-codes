@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/KunalSonare16/dsa-codes/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/KunalSonare16/dsa-codes/tree/master/1791-find-center-of-star-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/KunalSonare16/dsa-codes/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KunalSonare16/dsa-codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
