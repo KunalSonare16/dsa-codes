@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSonare16/dsa-codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/KunalSonare16/dsa-codes/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KunalSonare16/dsa-codes/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0997-find-the-town-judge](https://github.com/KunalSonare16/dsa-codes/tree/master/0997-find-the-town-judge) |
 | [1200-minimum-absolute-difference](https://github.com/KunalSonare16/dsa-codes/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/KunalSonare16/dsa-codes/tree/master/1402-reducing-dishes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KunalSonare16/dsa-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
+| [0997-find-the-town-judge](https://github.com/KunalSonare16/dsa-codes/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunalSonare16/dsa-codes/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KunalSonare16/dsa-codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/KunalSonare16/dsa-codes/tree/master/0997-find-the-town-judge) |
 | [2685-count-the-number-of-complete-components](https://github.com/KunalSonare16/dsa-codes/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KunalSonare16/dsa-codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
