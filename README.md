@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSonare16/dsa-codes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/KunalSonare16/dsa-codes/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
