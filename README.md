@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KunalSonare16/dsa-codes/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0063-unique-paths-ii) |
+| [0219-contains-duplicate-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSonare16/dsa-codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/KunalSonare16/dsa-codes/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KunalSonare16/dsa-codes/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KunalSonare16/dsa-codes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
 | [0997-find-the-town-judge](https://github.com/KunalSonare16/dsa-codes/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/KunalSonare16/dsa-codes/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/KunalSonare16/dsa-codes/tree/master/0184-department-highest-salary) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
