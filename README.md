@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KunalSonare16/dsa-codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSonare16/dsa-codes/tree/master/0451-sort-characters-by-frequency) |
 | [0997-find-the-town-judge](https://github.com/KunalSonare16/dsa-codes/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunalSonare16/dsa-codes/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0015-3sum) |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSonare16/dsa-codes/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSonare16/dsa-codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/KunalSonare16/dsa-codes/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
@@ -79,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSonare16/dsa-codes/tree/master/0451-sort-characters-by-frequency) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSonare16/dsa-codes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalSonare16/dsa-codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSonare16/dsa-codes/tree/master/0451-sort-characters-by-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/KunalSonare16/dsa-codes/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Backtracking
 |  |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSonare16/dsa-codes/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -179,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0219-contains-duplicate-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSonare16/dsa-codes/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
