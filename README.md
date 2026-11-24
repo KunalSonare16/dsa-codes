@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/KunalSonare16/dsa-codes/tree/master/0038-count-and-say) |
 | [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/KunalSonare16/dsa-codes/tree/master/0451-sort-characters-by-frequency) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSonare16/dsa-codes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
