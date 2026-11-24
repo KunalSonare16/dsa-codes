@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/KunalSonare16/dsa-codes/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/KunalSonare16/dsa-codes/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/KunalSonare16/dsa-codes/tree/master/0584-find-customer-referee) |
+| [1683-invalid-tweets](https://github.com/KunalSonare16/dsa-codes/tree/master/1683-invalid-tweets) |
 ## Sliding Window
 |  |
 | ------- |
