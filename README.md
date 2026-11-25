@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/KunalSonare16/dsa-codes/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0063-unique-paths-ii) |
 | [0219-contains-duplicate-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/KunalSonare16/dsa-codes/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSonare16/dsa-codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/KunalSonare16/dsa-codes/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KunalSonare16/dsa-codes/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -191,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/KunalSonare16/dsa-codes/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/KunalSonare16/dsa-codes/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/KunalSonare16/dsa-codes/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
