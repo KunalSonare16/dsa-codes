@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0063-unique-paths-ii) |
 | [0219-contains-duplicate-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/KunalSonare16/dsa-codes/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/KunalSonare16/dsa-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSonare16/dsa-codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/KunalSonare16/dsa-codes/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/KunalSonare16/dsa-codes/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KunalSonare16/dsa-codes/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/KunalSonare16/dsa-codes/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/KunalSonare16/dsa-codes/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/KunalSonare16/dsa-codes/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/KunalSonare16/dsa-codes/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalSonare16/dsa-codes/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KunalSonare16/dsa-codes/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -200,4 +202,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KunalSonare16/dsa-codes/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/KunalSonare16/dsa-codes/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
